@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/154122893?v=4" width="120" style="border-radius: 50%;" alt="Muhammad Subhan Siddiqui"/>
-
 # Muhammad Subhan Siddiqui
 
 **Software Engineer · Full-Stack (MERN) · Applied AI/ML**
