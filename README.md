@@ -67,6 +67,7 @@ Currently deepening expertise in **Transformer architectures** and **advanced NL
 ## 🚀 Featured Projects
 
 ### 🔍 [AI Financial Scam Detection Engine](https://github.com/MuhammadSubhanSiddiqui/ai_financial_scam-detection)
+[Deployed Link](https://huggingface.co/spaces/msubhansiddiqui/Financial-Scam-Detector)
 > **NLP · DistilBERT · spaCy · Gemini API · Docker · Hugging Face Spaces**
 
 End-to-end scam detection system built on a **3-layer architecture**:
@@ -101,6 +102,13 @@ Full-stack AI-powered eBook platform with production-grade architecture:
 
 ---
 
+## Other Projects:
+
+### [Trippy - Responsive Tour & Travel Website](https://github.com/MuhammadSubhanSiddiqui/trippy) 
+[Deployed Link](https://trippy-tou.netlify.app/)
+
+### [A DNS Cache Monitoring & Threat Detection Tool!](https://github.com/MuhammadSubhanSiddiqui/DNS_cachemonitoring)
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -118,11 +126,13 @@ Full-stack AI-powered eBook platform with production-grade architecture:
 Coursework: DSA, DBMS, AI, OS, Computer Networks, Software Engineering, Data Science, Digital Image Processing, Full-Stack Web Dev
 
 **Certifications**
-- 🐍 Python (https://www.kaggle.com/learn/certification/msubhansiddiqui/python)— Kaggle *(Apr 2026)* 
-- 🤖 Intro to Machine Learning (https://www.kaggle.com/learn/certification/msubhansiddiqui/intro-to-machine-learning)— Kaggle *(May 2026)*
-- 🧠 AI for Everyone — DeepLearning.AI / Coursera *(Apr 2025)*
-- 🌐 Bits and Bytes of Computer Networking — Google / Coursera *(May 2025)*
-- 
+- [Python](https://www.kaggle.com/learn/certification/msubhansiddiqui/python)— Kaggle *(Apr 2026)* 
+- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/msubhansiddiqui/intro-to-machine-learning)— Kaggle *(May 2026)*
+- [AI for Everyone]() — DeepLearning.AI / Coursera *(Apr 2025)*
+- [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://coursera.org/verify/9P4FXQCK58V5) — University of London *(Jan 2024)*
+- [Bits and Bytes of Computer Networking]() — Google / Coursera *(May 2025)*
+- [Programming Fundamentals](https://coursera.org/verify/GYGFL52BZMMF) — Duke University *(Nov 2023)*
+
 
 ---
 
