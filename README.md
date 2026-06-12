@@ -82,7 +82,7 @@ End-to-end scam detection system built on a **3-layer architecture**:
 > **Computer Vision · Transfer Learning · PyTorch · OpenCV · DIV2K**
 
 Adapted the NeurIPS 2023 **PromptIR** image restoration Transformer to novel weather degradations:
-- Engineered a custom ML data pipeline to synthesize a **600-image multi-degradation dataset** (noise, rain, dust) from DIV2K
+- Engineered a custom ML data pipeline to synthesize a **1000-image multi-degradation dataset** (noise, rain, dust, mixed, blur) from DIV2K
 - Applied selective transfer learning on the Transformer-based architecture
 
 **Results:** +4.02 dB PSNR improvement on noise · +3.58 dB on weather artifacts — in only 3 training epochs.
@@ -118,10 +118,11 @@ Full-stack AI-powered eBook platform with production-grade architecture:
 Coursework: DSA, DBMS, AI, OS, Computer Networks, Software Engineering, Data Science, Digital Image Processing, Full-Stack Web Dev
 
 **Certifications**
-- 🐍 Python — Kaggle *(Apr 2026)*
-- 🤖 Intro to Machine Learning — Kaggle *(May 2026)*
+- 🐍 Python (https://www.kaggle.com/learn/certification/msubhansiddiqui/python)— Kaggle *(Apr 2026)* 
+- 🤖 Intro to Machine Learning (https://www.kaggle.com/learn/certification/msubhansiddiqui/intro-to-machine-learning)— Kaggle *(May 2026)*
 - 🧠 AI for Everyone — DeepLearning.AI / Coursera *(Apr 2025)*
 - 🌐 Bits and Bytes of Computer Networking — Google / Coursera *(May 2025)*
+- 
 
 ---
 
