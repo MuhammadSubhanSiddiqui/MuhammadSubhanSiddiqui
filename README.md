@@ -6,6 +6,7 @@
 
 **Software Engineer · Full-Stack (MERN) · Applied AI/ML**
 
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://muhammadsubhansiddiqui.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsubhansiddiqui/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/msubhansiddiqui)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/msubhansiddiqui/)
