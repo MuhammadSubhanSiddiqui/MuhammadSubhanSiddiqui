@@ -147,9 +147,9 @@ Coursework: DSA, DBMS, AI, OS, Computer Networks, Software Engineering, Data Sci
 - 📧 subhansiddiquiau@gmail.com
 - 📍 Islamabad, Pakistan
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadsubhansiddiqui/)
-
+- [Portfolio](https://muhammadsubhansiddiqui.netlify.app/)
 ---
 
 <div align="center">
-<i>Open to internships, remote opportunities, and interesting collaboration. Let's build something.</i>
+<i>Open to internships, jobs, remote opportunities, and interesting collaboration. Let's build something.</i>
 </div>
